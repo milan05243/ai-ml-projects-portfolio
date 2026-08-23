@@ -10,20 +10,18 @@ Comparison of a Traditional CNN and a Customized CNN for multi-class image class
 **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib, Scikit-learn
 
 ---
+### 📁 CineMatch — AI Movie Recommendation System 
+A content-based movie recommendation system that recommends similar movies based on their features and dynamically retrieves movie posters using the TMDB API. 
+
+**Technologies:** Python, Flask, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, REST API, TMDB API, Render
+
+
+---
 
 ### 📁 IMDb Sentiment Analysis
 A sentiment classification project that compares traditional machine learning and deep learning approaches for movie-review sentiment analysis.
 
 **Technologies:** Python, Scikit-learn, TF-IDF, Logistic Regression, LSTM, TensorFlow/Keras
-
----
-
-### 📁 CineMatch — AI Movie Recommendation System
-A content-based movie recommendation system that recommends similar movies based on their features and dynamically retrieves movie posters using the TMDB API.
-
-**Technologies:** Python, Flask, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, REST API, TMDB API, Render
-
-## About
 
 These projects demonstrate practical experience in:
 
